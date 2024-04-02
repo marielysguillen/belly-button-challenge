@@ -1,6 +1,9 @@
 # belly-button-challenge
 Programming for Data processing &amp; JavaScript Visualization
 
+Run:
+https://github.com/marielysguillen/belly-button-challenge
+
 Instructions
 
 1)Use the D3 library to read in samples.json from the URL https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json.
